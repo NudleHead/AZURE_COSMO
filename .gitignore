@@ -1,2 +1,8 @@
 LICENSE.md
 requirments.txt
+runtime.txt
+virtualenv_proxy.py
+web.2.7.config
+web.3.4.config
+CHANGELOG.md
+CONTRIBUTING.md
